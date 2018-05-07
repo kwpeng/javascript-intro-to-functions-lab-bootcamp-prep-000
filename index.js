@@ -22,6 +22,6 @@ function sayHiToGrandma(string) {
     return('YES INDEED!');
     }
   else {
-    console.log('I love you, too.');
+    return('I love you, too.');
   }
 }
